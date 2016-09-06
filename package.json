@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "node project week 10",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatlinrowe/liri-node-app.git"
+  },
+  "author": "gatlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatlinrowe/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/gatlinrowe/liri-node-app#readme",
+  "dependencies": {
+    "fs-tools": "^0.2.11",
+    "geocoder": "^0.2.2",
+    "inquirer": "^1.1.3",
+    "request": "^2.74.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
